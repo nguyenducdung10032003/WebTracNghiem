@@ -1,0 +1,104 @@
+.login-page {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  padding: 20px;
+}
+
+.login-card {
+  width: 100%;
+  max-width: 450px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+
+.login-header {
+  text-align: center;
+  padding: 25px 20px;
+  background-color: #f9f9f9;
+  border-bottom: 1px solid #eee;
+}
+
+.login-header h2 {
+  margin: 0;
+  color: #333;
+  font-size: 1.8rem;
+}
+
+.login-header p {
+  margin: 10px 0 0;
+  color: #666;
+}
+
+.tab-btn {
+  flex: 1;
+  padding: 15px;
+  background: none;
+  border: none;
+  font-size: 1rem;
+  font-weight: 500;
+  color: #666;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.tab-btn.active {
+  color: #0066cc;
+  border-bottom: 2px solid #0066cc;
+}
+
+.login-body {
+  padding: 25px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: 500;
+  color: #555;
+}
+
+.demo-accounts {
+  margin-top: 20px;
+  padding: 15px;
+  background-color: #f9f9f9;
+  border-radius: 5px;
+  font-size: 0.9rem;
+  color: #666;
+}
+
+.demo-accounts p {
+  margin: 5px 0;
+}
+
+.login-tabs {
+  display: flex;
+  justify-content: center;  /* căn giữa theo chiều ngang */
+  gap: 20px;                 /* khoảng cách giữa 2 tab */
+  margin-bottom: 20px;
+  border-bottom: 1px solid #ddd;
+}
+
+
+.tab-link {
+  display: inline-block;
+  padding: 10px 20px;
+  text-decoration: none;
+  color: #333;
+  border-bottom: 2px solid transparent;
+  cursor: pointer;
+}
+
+.tab-link.active {
+  border-bottom: 2px solid #007bff;
+  font-weight: bold;
+  color: #007bff;
+}

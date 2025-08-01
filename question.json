@@ -1,0 +1,322 @@
+[
+  {
+    "question": "What is the correct form of the verb 'to be' in this sentence: 'She ___ a teacher'?",
+    "options": ["am", "is", "are", "be"],
+    "correctAnswer": [1],
+    "level": "beginner",
+    "category": "grammar",
+    "testId": "684d7b448a0d25a4b45d37bc"
+  },
+  {
+    "question": "Choose the correct word: 'I ___ to the store yesterday.'",
+    "options": ["go", "goes", "went", "going"],
+    "correctAnswer": [2],
+    "level": "beginner",
+    "category": "grammar",
+    "testId": "684d7b448a0d25a4b45d37bc"
+  },
+  {
+    "question": "What does 'ubiquitous' mean?",
+    "options": ["rare", "everywhere", "beautiful", "expensive"],
+    "correctAnswer": [1],
+    "level": "intermediate",
+    "category": "vocabulary",
+    "testId": "684d7b448a0d25a4b45d37bc"
+  },
+  {
+    "question": "Choose the synonym of 'happy'.",
+    "options": ["sad", "angry", "joyful", "tired"],
+    "correctAnswer": [2],
+    "level": "intermediate",
+    "category": "vocabulary",
+    "testId": "684d7b448a0d25a4b45d37bc"
+  },
+  {
+    "question": "What is the meaning of 'ephemeral'?",
+    "options": ["lasting a very short time", "permanent", "confusing", "invisible"],
+    "correctAnswer": [0],
+    "level": "advanced",
+    "category": "vocabulary",
+    "testId": "684d7b448a0d25a4b45d37bc"
+  },
+  {
+    "question": "Which of the following are programming languages?",
+    "options": ["JavaScript", "HTML", "Python", "CSS"],
+    "correctAnswer": [0, 2],
+    "level": "intermediate",
+    "category": "technology"
+  },
+  {
+    "question": "Which are fruits?",
+    "options": ["Carrot", "Apple", "Banana", "Potato"],
+    "correctAnswer": [1, 2],
+    "level": "beginner",
+    "category": "vocabulary"
+  },
+  {
+    "question": "What are prime numbers?",
+    "options": ["2", "4", "5", "6"],
+    "correctAnswer": [0, 2],
+    "level": "intermediate",
+    "category": "math"
+  },
+  {
+    "question": "Which are valid HTTP methods?",
+    "options": ["GET", "SEND", "POST", "FETCH"],
+    "correctAnswer": [0, 2],
+    "level": "advanced",
+    "category": "technology"
+  },
+  {
+    "question": "Select the adjectives.",
+    "options": ["Quickly", "Beautiful", "Happy", "Run"],
+    "correctAnswer": [1, 2],
+    "level": "beginner",
+    "category": "grammar"
+  },
+  {
+    "question": "Which are programming paradigms?",
+    "options": ["Object-Oriented", "Procedural", "Dancing", "Functional"],
+    "correctAnswer": [0, 1, 3],
+    "level": "advanced",
+    "category": "technology"
+  },
+  {
+    "question": "Select Japanese greetings.",
+    "options": ["こんにちは", "ありがとう", "犬", "さようなら"],
+    "correctAnswer": [0, 1, 3],
+    "level": "beginner",
+    "category": "vocabulary"
+  },
+  {
+    "question": "Which are valid HTML tags?",
+    "options": ["<div>", "<loop>", "<img>", "<section>"],
+    "correctAnswer": [0, 2, 3],
+    "level": "intermediate",
+    "category": "technology"
+  },
+  {
+    "question": "Which are mammals?",
+    "options": ["Shark", "Elephant", "Frog", "Whale"],
+    "correctAnswer": [1, 3],
+    "level": "beginner",
+    "category": "science"
+  },
+  {
+    "question": "Which words are verbs?",
+    "options": ["Run", "Jump", "Blue", "Sing"],
+    "correctAnswer": [0, 1, 3],
+    "level": "beginner",
+    "category": "grammar"
+  },
+  {
+    "question": "Which numbers are even?",
+    "options": ["1", "2", "3", "4"],
+    "correctAnswer": [1, 3],
+    "level": "beginner",
+    "category": "math"
+  },
+  {
+    "question": "Which are CSS units?",
+    "options": ["px", "cm", "em", "rpm"],
+    "correctAnswer": [0, 1, 2],
+    "level": "intermediate",
+    "category": "technology"
+  },
+  {
+    "question": "Which countries are in Europe?",
+    "options": ["France", "Brazil", "Germany", "Japan"],
+    "correctAnswer": [0, 2],
+    "level": "beginner",
+    "category": "geography"
+  },
+  {
+    "question": "Which are frontend frameworks?",
+    "options": ["React", "Node.js", "Vue", "Angular"],
+    "correctAnswer": [0, 2, 3],
+    "level": "intermediate",
+    "category": "technology"
+  },
+  {
+    "question": "Which words are adverbs?",
+    "options": ["Quickly", "Beautiful", "Always", "Run"],
+    "correctAnswer": [0, 2],
+    "level": "beginner",
+    "category": "grammar"
+  },
+  {
+    "question": "Which are JavaScript data types?",
+    "options": ["String", "Boolean", "Float", "Undefined"],
+    "correctAnswer": [0, 1, 3],
+    "level": "intermediate",
+    "category": "technology"
+  },
+  {
+    "question": "Which are examples of renewable energy?",
+    "options": ["Solar", "Coal", "Wind", "Oil"],
+    "correctAnswer": [0, 2],
+    "level": "intermediate",
+    "category": "science"
+  },
+  {
+    "question": "Which are programming loops?",
+    "options": ["for", "if", "while", "switch"],
+    "correctAnswer": [0, 2],
+    "level": "intermediate",
+    "category": "technology"
+  },
+  {
+    "question": "Which are prepositions?",
+    "options": ["In", "Beautiful", "On", "Sing"],
+    "correctAnswer": [0, 2],
+    "level": "beginner",
+    "category": "grammar"
+  },
+  {
+    "question": "Which are valid file extensions for images?",
+    "options": [".jpg", ".png", ".exe", ".gif"],
+    "correctAnswer": [0, 1, 3],
+    "level": "beginner",
+    "category": "technology"
+  },
+  {
+    "question": "Which are string methods in JavaScript?",
+    "options": ["toUpperCase", "push", "trim", "split"],
+    "correctAnswer": [0, 2, 3],
+    "level": "intermediate",
+    "category": "technology"
+  },
+  {
+    "question": "Which planets are gas giants?",
+    "options": ["Earth", "Jupiter", "Saturn", "Mars"],
+    "correctAnswer": [1, 2],
+    "level": "intermediate",
+    "category": "science"
+  },
+  {
+    "question": "Which are common data structures?",
+    "options": ["Array", "Tree", "Animal", "Linked List"],
+    "correctAnswer": [0, 1, 3],
+    "level": "advanced",
+    "category": "technology"
+  },
+  {
+    "question": "Which are valid JSON types?",
+    "options": ["Number", "Date", "Object", "Array"],
+    "correctAnswer": [0, 2, 3],
+    "level": "intermediate",
+    "category": "technology"
+  },
+  {
+    "question": "Which are correct spellings?",
+    "options": ["Recieve", "Receive", "Definately", "Definitely"],
+    "correctAnswer": [1, 3],
+    "level": "intermediate",
+    "category": "grammar"
+  },
+  {
+    "question": "Which are colors?",
+    "options": ["Blue", "Fast", "Green", "Walk"],
+    "correctAnswer": [0, 2],
+    "level": "beginner",
+    "category": "vocabulary"
+  },
+  {
+    "question": "Which of these are arrays?",
+    "options": ["[1,2,3]", "'string'", "{ key: value }", "[a, b, c]"],
+    "correctAnswer": [0, 3],
+    "level": "intermediate",
+    "category": "technology"
+  },
+  {
+    "question": "Which are punctuation marks?",
+    "options": ["?", ".", "and", ","],
+    "correctAnswer": [0, 1, 3],
+    "level": "beginner",
+    "category": "grammar"
+  },
+  {
+    "question": "Which are types of clouds?",
+    "options": ["Cumulus", "Stratus", "Nimbostratus", "Nebula"],
+    "correctAnswer": [0, 1, 2],
+    "level": "intermediate",
+    "category": "science"
+  },
+  {
+    "question": "Which are programming languages?",
+    "options": ["Python", "Excel", "C++", "SQL"],
+    "correctAnswer": [0, 2, 3],
+    "level": "intermediate",
+    "category": "technology"
+  },
+  {
+    "question": "Which are valid variable names?",
+    "options": ["_total", "2count", "$price", "first-name"],
+    "correctAnswer": [0, 2],
+    "level": "intermediate",
+    "category": "technology"
+  },
+  {
+    "question": "Which are valid loops in C?",
+    "options": ["for", "loop", "while", "do-while"],
+    "correctAnswer": [0, 2, 3],
+    "level": "advanced",
+    "category": "technology"
+  },
+  {
+    "question": "Which are animals?",
+    "options": ["Cat", "Car", "Dog", "Tree"],
+    "correctAnswer": [0, 2],
+    "level": "beginner",
+    "category": "vocabulary"
+  },
+  {
+    "question": "Which are primary colors?",
+    "options": ["Red", "Green", "Blue", "Yellow"],
+    "correctAnswer": [0, 2],
+    "level": "beginner",
+    "category": "science"
+  },
+  {
+    "question": "Which are musical instruments?",
+    "options": ["Piano", "Drum", "Book", "Guitar"],
+    "correctAnswer": [0, 1, 3],
+    "level": "beginner",
+    "category": "vocabulary"
+  },
+  {
+    "question": "Which are JavaScript frameworks?",
+    "options": ["Angular", "Laravel", "React", "Spring"],
+    "correctAnswer": [0, 2],
+    "level": "intermediate",
+    "category": "technology"
+  },
+  {
+    "question": "Which are common verbs?",
+    "options": ["Run", "Eat", "Happy", "Go"],
+    "correctAnswer": [0, 1, 3],
+    "level": "beginner",
+    "category": "grammar"
+  },
+  {
+    "question": "Which are file formats for audio?",
+    "options": [".mp3", ".wav", ".exe", ".aac"],
+    "correctAnswer": [0, 1, 3],
+    "level": "intermediate",
+    "category": "technology"
+  },
+  {
+    "question": "Which are fruits?",
+    "options": ["Banana", "Tomato", "Onion", "Mango"],
+    "correctAnswer": [0, 1, 3],
+    "level": "beginner",
+    "category": "vocabulary"
+  },
+  {
+    "question": "Which are database systems?",
+    "options": ["MySQL", "MongoDB", "Excel", "PostgreSQL"],
+    "correctAnswer": [0, 1, 3],
+    "level": "advanced",
+    "category": "technology"
+  }
+]

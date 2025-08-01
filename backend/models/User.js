@@ -1,6 +1,7 @@
 const mongoose = require("mongoose");
 
-const passwordRegex = /^(?=.*[a-z])(?=.*\d)(?=.*[!@#$%^&*()_+\-=\[\]{};':"\\|,.<>\/?]).{8,}$/;
+const passwordRegex =
+  /^(?=.*[a-z])(?=.*\d)(?=.*[!@#$%^&*()_+\-=\[\]{};':"\\|,.<>\/?]).{8,}$/;
 
 const userSchema = new mongoose.Schema(
   {
@@ -17,8 +18,10 @@ const userSchema = new mongoose.Schema(
           `${props.value} is not a valid password. Password must be at least 8 characters long and include lowercase letters, numbers, and special characters.`,
       },
     },
-    role: { type: Number, enum: [0, 1], required: true },
+    role: { type: String, enum: ["user", "admin"], required: true },
+    resetToken: { type: String },
+    tokenExpiry: { type: Date },
   },
   { timestamps: true }
 );
-module.exports = mongoose.model('User', userSchema);
+module.exports = mongoose.model("User", userSchema);

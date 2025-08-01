@@ -1,0 +1,15 @@
+.test-timer {
+  display: flex;
+  align-items: center;
+  color: #e53935;
+  font-weight: 500;
+}
+
+.timer-icon {
+  margin-right: 5px;
+}
+
+.timer-text {
+  font-family: monospace;
+  font-size: 1.1rem;
+}
